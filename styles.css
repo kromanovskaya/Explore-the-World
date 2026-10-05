@@ -1,0 +1,224 @@
+*{
+    box-sizing: border-box;
+}
+
+b{
+    color: seagreen;
+}
+
+body{
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    padding-top: 100px;
+}
+
+
+a{
+    color: midnightblue;
+    text-decoration: underline dotted;
+}
+
+a:hover{
+    color: seagreen;
+    text-decoration: underline;
+}
+
+a:visited{
+    color: seagreen;
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    background: none;
+    color: midnightblue;
+    text-decoration: underline dotted;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button:hover {
+    color: seagreen;
+    text-decoration: underline;
+}
+
+h1{ 
+    font-size: 38px;
+}
+
+.search-input{
+    padding: 5px;
+    border: 1px solid seagreen;
+    border-radius: 3px;
+    margin: 0px;
+    padding: 10px 70px 10px 7px;
+    text-align: left;
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    border-bottom: 2px solid black;
+    padding: 0px 30px 0px 5px;
+    margin: 0px;
+}
+
+.header-content {
+    font-size: 24px;
+    text-align: center;
+    font-style: italic;
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+}
+
+.destination-card h2{
+    margin: 0px 0px 0px 0px;
+    padding: 7px 0px 0px 0px;
+}
+
+.destination-card h4{
+    margin: 0px 0px 5px 0px;
+    padding: 0px 0px 5px 0px;
+    border-bottom: 1px dashed lightgreen;
+    font-style: italic;
+
+}
+
+
+.cities{
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-auto-rows: minmax(90px, auto);
+    gap: 20px; 
+
+    list-style: none;
+    padding: 0;
+    margin: 0; 
+}
+
+.cities .destination-card{
+  padding: 7px;
+  border: 1px solid lightgreen;
+  border-radius: 5px;
+  background-color: mintcream;
+  font-size: 14px;
+  text-align: center;
+} 
+
+.cities .destination-card p {
+    text-align: center;
+    margin: 10px 0;
+    padding: 0;
+    font-size: 22px;
+}
+    
+
+.destination-card .image-container {
+    width: 100%;
+    height: 500px;
+} 
+
+.destination-card .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    object-position: center; 
+    display: block;
+    border-radius: 5px;
+}
+
+
+.cities .details-card {
+    padding: 7px;
+    border: 1px solid lightgreen;
+    border-radius: 5px;
+    background-color: mintcream;
+    font-size: 14px;
+    text-align: left;
+}
+
+.details-card .image-container {
+    width: 80%;
+    height: 500px;
+    margin: 5px auto;
+} 
+
+.details-card .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    object-position: center; 
+    display: block;
+    border-radius: 5px;
+}
+
+/* City and country */
+.details-card h2 {
+    margin: 10px 0 5px 0;
+    padding: 0;
+    text-align: center;
+    font-size: 36px;
+}
+
+/* Region */
+.details-card h4 {
+    margin: 5px 0;
+    padding: 0 0 7px 0;
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    border-bottom: 2px dashed lightgreen;
+}
+
+/* Description */
+.details-card p {
+    margin: 10px 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+/*titles*/
+.details-card h3 {
+    margin: 10px 0 5px 0;
+    padding: 0;
+    font-size: 20px;
+    color: seagreen;
+}
+
+/* Attractions grid */
+.attractions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+.attractions li {
+    margin: 0;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.details-card .special-fact {
+    margin: 10px 0 25px 0;
+    padding: 0;
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+
+footer{
+    text-align: right;
+    margin-top: 30px;
+}

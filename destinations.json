@@ -1,0 +1,137 @@
+[
+    {
+        "city": "PARIS",
+        "country": "France",
+        "region": "Europe",
+        "description": "Paris is the capital city of France and one of the most visited places in the world. People often call it the 'City of Light' because it was one of the first European cities to use gas street lighting. It is known for beautiful buildings, small cafés, museums, and romantic streets. You can walk along the Seine River, visit famous landmarks, and try French food. The city has something interesting around almost every corner.",
+        "photoV": "images/paris.jpg",
+        "photoG": "images/parisG.jpg",
+        "attractions": ["Eiffel Tower", "Louvre Museum", "Cathédrale Notre-Dame de Paris", "Arc de Triomphe", "The Seine River", "Montmartre", "Luxembourg Gardens"],
+        "fact": "Paris has Historic Axis, which is a long, straight route that connects some of the citys most famous landmarks, starting at the Louvre and continuing west."
+    },
+
+    {
+        "city": "TOKYO",
+        "country": "Japan",
+        "region": "Asia",
+        "description": "Tokyo is the capital of Japan and a very busy and exciting city. It is famous for bright lights, tall buildings, technology, shopping, and amazing food. You can also find quiet temples, beautiful gardens, and traditional Japanese streets. Tokyo is a great place to see both old and new Japan. There is always something to do, even at night.",
+        "photoV": "images/tokyo.jpg",
+        "photoG": "images/tokyoG.jpg",
+        "attractions": ["Mount Fuji", "Tokyo Skytree", "Senso-ji Temple", "Shinjuku Gyoen National Garden", "Tokyo Tower"],
+        "fact": "There is tax-free shopping for tourists in Tokyo."
+    },
+
+    {
+
+        "city": "MINSK",
+        "country": "Belarus",
+        "region": "Europe",
+        "description": "Minsk is the capital of Belarus and a city with a mix of history and modern life. It has wide streets, beautiful parks, large squares, and interesting museums. You can walk around the city center and see many important landmarks. Minsk is also known for its clean streets and peaceful atmosphere. It is a great place to learn more about Belarusian culture.",
+        "photoV": "images/minsk.jpg",
+        "photoG": "images/minskG.jpg",
+        "attractions": ["Belarusian State Museum of the History of the Great Patriotic War", "Upper City", "Ballet Theatre of Belarus", "Nation Library of Belarus", "Gorky Park"],
+        "fact": "Minsk was once home to Lee Harvey Oswald, the assassin of former US President John F. Kennedy."
+    },
+
+    {
+        "city": "ROME",
+        "country": "Italy",
+        "region": "Europe",
+        "description": "Rome is the capital of Italy and a city full of history. You can see ancient buildings, beautiful fountains, old streets, and famous churches while walking around the city. Rome is also a great place to try Italian pizza, pasta, and gelato. One of the most famous places is the Colosseum, which is almost 2,000 years old. Rome feels like a place where the past and present meet.",
+        "photoV": "images/rome.jpg",
+        "photoG": "images/romeG.jpg",
+        "attractions": ["Colosseum", "Vatican City", "Pantheon", "Trevi Fountain", "Roman Forum", "Piazza Navona"],
+        "fact": "Law in Rome allows cats to live without disruption in the place they were born. Wild cats can be climbing the walls of the Colosseum, and sleeping among the ruins of the Forum."
+    },
+    {
+        "city": "LONDON",
+        "country": "United Kingdom",
+        "region": "Europe",
+        "description": "London is the capital of the United Kingdom and one of the most popular cities in Europe. It is famous for Big Ben, red buses, royal palaces, and historic buildings. You can visit museums, walk through large parks, or explore different parts of the city. London is also very multicultural, so you can find food and traditions from many countries. The city has a mix of old history and modern life.",
+        "photoV": "images/london.jpg",
+        "photoG": "images/londonG.jpg",
+        "attractions": ["Tower of London", "Big Ben", "Buckingham Palace", "Sky Garden", "The British Museum", "London Eye", "Tower Bridge"],
+        "fact": "Rainy London is not very rainy. Despite its reputation for rainy weather, London receives less annual rainfall than cities like Rome and Sydney."
+    },
+
+    {
+        "city": "KYIV",
+        "country": "Ukraine",
+        "region": "Europe",
+        "description": "Kyiv is the capital of Ukraine and one of the oldest cities in Europe. It is known for beautiful churches, green parks, and historic streets. You can walk around the city center, visit museums, or enjoy views of the Dnipro River. Kyiv also has many cafés, restaurants, and modern places to explore. It is a great city to learn about Ukrainian history and culture.",
+        "photoV": "images/kyiv.jpg",
+        "photoG": "images/kyivG.jpg",
+        "attractions": ["The Motherland Monument", "Saint Sophia Cathedral", "Khreshchatyk", "The Holy Dormition Kyiv Caves Lavra", "Chernobyl National Museum"],
+        "fact": "Kyiv is one of the largest and oldest cities in Eastern Europe. The city was founded in the year of 482BC."
+    },
+
+    {
+        "city": "DUBROVNIK",
+        "country": "Croatia",
+        "region": "Europe",
+        "description": "Dubrovnik is a beautiful coastal city in Croatia, famous for its old stone walls and views of the Adriatic Sea. The historic Old Town has narrow streets, small shops, restaurants, and beautiful old buildings. You can walk along the city walls and enjoy amazing views of the sea and nearby islands. Dubrovnik also has sunny beaches and clear blue water, making it a great place to relax. It is a perfect destination for people who love history, the sea, and beautiful views.",
+        "photoV": "images/dubrovnik.jpg",
+        "photoG": "images/dubrovnikG.jpg",
+        "attractions": ["The City Walls", "The Stradun", "Rector's Palace", "Fort Lovrijenac"],
+        "fact": "The city walls of Dubrovnik have never been breached."
+    },
+
+    {
+        "city": "SYDNEY",
+        "country": "Australia",
+        "region": "Oceania",
+        "description": "Sydney is a large city on the coast of Australia and is famous for its beautiful harbor. You can see the Sydney Opera House, walk across the Harbour Bridge, or relax on one of the city's beaches. Sydney has many parks, restaurants, shops, and outdoor activities. The city is a great place for people who enjoy both nature and modern city life. Its sunny weather and ocean views make it a popular travel destination.",
+        "photoV": "images/sydney.jpg",
+        "photoG": "images/sydneyG.jpg",
+        "attractions": ["Sydney Opera House", "Sydney Harbour Bridge", "Bondi Beach", "Royal Botanic Garden", "The Rocks"],
+        "fact": "Sydney has one of the longest bridges. The Harbour Bridge is one of the world's longest steel arch bridges."
+    },
+
+
+    {
+        "city": "RIO DE JANEIRO",
+        "country": "Brazil",
+        "region": "South America",
+        "description": "Rio de Janeiro is a beautiful city on the coast of Brazil. It is famous for its beaches, green mountains, music, and colorful culture. You can relax on Copacabana Beach, visit Christ the Redeemer, or take a cable car up Sugarloaf Mountain. The city is full of energy and is known for its famous Carnival celebration. Rio is a great place for people who love both nature and city life.",
+        "photoV": "images/rio.jpg",
+        "photoG": "images/rioG.jpg",
+        "attractions": ["Santuario Cristo Redentor", "Copacabana Beach", "Sugarloaf Mountain", "Museu do Amanha", "Botanical Garden"],
+        "fact": "Rio de Janeiro used to be the capital of Portugal, making it the only European capital located outside of Europe in history."
+    },
+
+    {
+        "city": "BARCELONA",
+        "country": "Spain",
+        "region": "Europe",
+        "description": "Barcelona is a beautiful city on the coast of Spain. It is famous for colorful buildings, sunny beaches, great food, and the unusual designs of Antoni Gaudí. You can walk through old streets, visit famous churches, or relax near the Mediterranean Sea. The city has a fun and relaxed atmosphere. Barcelona is a great choice if you want both a city trip and a beach vacation.",
+        "photoV": "images/barcelona.jpg",
+        "photoG": "images/barcelonaG.jpg",
+        "attractions": ["Basilica de la Sagrada Familia", "Park Güell", "Casa Batlló", "La Pedrere - Casa Mila", "Gothic Quarter", "Basilica de Santa Maria del Mar"],
+        "fact": "All of Barcelona's beaches are manmade with sand from Egypt, and they were built in 1992 for the Olympics."
+    },
+
+    {
+        "city": "BEIJING",
+        "country": "China",
+        "region": "Asia",
+        "description": "Beijing is the capital of China and a city with thousands of years of history. It is famous for ancient palaces, temples, busy streets, and modern buildings. You can visit the Great Wall of China, explore the Forbidden City, and try traditional Chinese food. The city has many places where you can see Chinese history and culture. Beijing is a great destination for people who want to experience both ancient traditions and modern city life.",
+        "photoV": "images/beijing.jpg",
+        "photoG": "images/beijingG.jpg",
+        "attractions": ["Mutianyu Great Wall", "Temple of Heaven", "Summer Palace", "Lama Temple", "Jingshan Park"],
+        "fact": "Beijing has the most billionaires in the world!"
+    },
+
+    {
+        "city": "SEOUL",
+        "country": "South Korea",
+        "region": "Asia",
+        "description": "Seoul is the capital of South Korea and a city where modern and traditional life come together. You can see tall buildings and busy shopping streets right next to old palaces and traditional houses. The city is famous for Korean food, technology, music, fashion, and entertainment. There are also many beautiful parks and places to enjoy views of the city. Seoul is especially interesting for people who want to experience modern Korean culture.",
+        "photoV": "images/seoul.jpg",
+        "photoG": "images/seoulG.jpg",
+        "attractions": ["Gyeongbokgung Palace", "Bukchon Hanok Village", "Deoksugung Palace", "N Seoul Tower", "Myeondong Shopping Street"],
+        "fact": "You can work as a professional gamer in Seoul!"
+    }
+
+
+
+]
